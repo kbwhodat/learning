@@ -1,0 +1,8 @@
+
+amends "Person.pkl"
+
+name = "Kato"
+
+age = 28
+
+zipCode = "30008"

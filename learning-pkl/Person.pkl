@@ -1,0 +1,8 @@
+
+module Person
+
+name: String(!isEmpty)
+
+age: Int(isBetween(0, 130))
+
+zipCode: String(matches(Regex("\\d{5}")))
